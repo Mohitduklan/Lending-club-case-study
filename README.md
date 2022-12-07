@@ -33,3 +33,6 @@ The variables which are strong indicators of default. The company can utilise th
 
 ## Data Understanding
 Data contains the complete loan data for all loans issued through the time period 2007 to 2011.
+
+## Collaborators
+- Nalinikanta Das
